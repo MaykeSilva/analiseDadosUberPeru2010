@@ -1,5 +1,7 @@
 # Análise de Dados - UBER Peru 2010
 
+⚠️ Working
+
 A proposta desse projeto é o treinamento e estudo da linguagem Python para Análise de Dados, podendo retirar alguns insigths e entender eventuais correlações entre os dados, por fim a aplicação de data visualization.
 <br/>
 
